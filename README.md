@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @maylikenoother
+- 👋 Hi, I’m @maylikenoother 
 - 👀 I’m interested in everything programming 
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on start up  projects
+- 🌱 I am knowledgeable, proficient in writing Node.js and currently learning React 
+- 💞️ I’m looking to collaborate as a Frontend developer on start up  projects
 - 📫 How to reach me maryogedengbe@yahoo.com
 
 <!---
