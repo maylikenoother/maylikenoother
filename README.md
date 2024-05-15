@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @maylikenoother 
 - 👀 I’m interested in everything programming 
 - 🌱 I am knowledgeable, proficient in writing Javascript
-- 💞️ I’m looking to collaborate  on start up  projects
-- 📫 How to reach me maryogedengbe@yahoo.com
+- 📫 How to reach me ogedengbemary19@gmail.com
 
 <!---
 maylikenoother/maylikenoother is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
