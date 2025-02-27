@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maylikenoother 
 - 👀 I’m interested in everything programming 
-- 🌱 I am knowledgeable, proficient in writing Javascript and c#
+- 🌱 I am knowledgeable, proficient in writing Python, Javascript and c#
 - 📫 How to reach me ogedengbemary19@gmail.com
 
 <!---
